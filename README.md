@@ -1,2 +1,2 @@
 # Sistema informacion transito
- Sistema de información del  tránsito parcial 1 programació
+ Sistema de informacion de transito parcial #1, usando React, Ant, Firestore
